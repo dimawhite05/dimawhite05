@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm engrossed in my passion of hand-crafting robust enterpise-grade software.
+
+Pronouns: He/Him
+
 <!--
 **dimawhite05/dimawhite05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
