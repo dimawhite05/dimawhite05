@@ -48,6 +48,11 @@ Pronouns: He/Him
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![FPGA](https://img.shields.io/badge/fpga-%23121011.svg?style=for-the-badge&logo=linux&logoColor=1147f4)
 ![Arduino](https://img.shields.io/badge/arduino-%23121011.svg?style=for-the-badge&logo=arduino&logoColor=1147f4)
+![HackVlad](https://img.shields.io/badge/Hack%20Club-EC3750?style=for-the-badge&logo=Hack%20Club&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
+![ICQ](https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425)
+![Viber](https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white)
+![Mac](https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white)
 
 <!--
 **dimawhite05/dimawhite05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
