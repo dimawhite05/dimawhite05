@@ -4,9 +4,10 @@ I'm engrossed in my passion of hand-crafting robust enterpise-grade software.
 
 Pronouns: He/Him
 
-- 💻 I like to write code
-- ♟️ I like to play chess ever since I visited Italy back in 2006
-- 🎹 I like to play piano, right now I'm learning Prelude in C
+- 💻 I like to write code.
+- ♟️ I like to play chess ever since I visited Italy back in 2006.
+- 🎹 I like to play piano, right now I'm learning Prelude in C.
+- 🇯🇵 I love anime and I learn Japanese. おはようございます！
 
 ## Stack of technologies:
 ![Ansys](https://img.shields.io/badge/-Ansys-090909?style=for-the-badge&logo=Ansys&logoColor=f7f50a)
