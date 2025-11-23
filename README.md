@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Dmitry Voitovich!
 
-I'm engrossed in my passion of hand-crafting robust enterpise-grade software.
+I'm engrossed in my passion of hand-crafting robust enterpise-grade software. Ever since young age of 5 I've been excited by software engineering and game development.
 
 Pronouns: He/Him
 
