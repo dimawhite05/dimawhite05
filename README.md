@@ -9,6 +9,12 @@ Pronouns: He/Him
 - 🎹 I like to play piano, right now I'm learning Prelude in C.
 - 🇯🇵 I love anime and I learn Japanese. やめてください！
 
+## Languages
+English: C2+
+Russian: Native
+Belorussian: Native
+Japanese: N1
+
 ## Stack of technologies:
 ![Ansys](https://img.shields.io/badge/-Ansys-090909?style=for-the-badge&logo=Ansys&logoColor=f7f50a)
 ![Femap](https://img.shields.io/badge/-Femap-090909?style=for-the-badge&logo=&logoColor=0a5ef7)
