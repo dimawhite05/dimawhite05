@@ -3,7 +3,7 @@ _pronounced: dim-IH-tree white-OF-itch_
 
 I'm engrossed in my passion of hand-crafting robust enterpise-grade software. Ever since young age of 5 I've been excited by software engineering and game development.
 
-Pronouns: He/Him
+Pronouns: He/Him;
 
 - 💻 I like to write code.
 - ♟️ I like to play chess ever since I visited Italy back in 2006.
@@ -11,10 +11,10 @@ Pronouns: He/Him
 - 🇯🇵 I love anime and I learn Japanese. やめてください！
 
 ## Languages
-English: C2+
-Russian: Native
-Belorussian: Native
-Japanese: N1
+- English: C2+
+- Russian: Native
+- Belorussian: Native
+- Japanese: N1
 
 ## Stack of technologies:
 ![Ansys](https://img.shields.io/badge/-Ansys-090909?style=for-the-badge&logo=Ansys&logoColor=f7f50a)
