@@ -5,7 +5,7 @@ I'm engrossed in my passion of hand-crafting robust enterpise-grade software. Ev
 
 Pronouns: He/Him;
 
-- 💻 I like to write code.
+- 💻 I like to write code;
 - ♟️ I like to play chess ever since I visited Italy back in 2006.
 - 🎹 I like to play piano, right now I'm learning Prelude in C.
 - 🇯🇵 I love anime and I learn Japanese. やめてください！
