@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Dmitry Voitovich!
 _pronounced: dim-IH-tree white-OF-itch_
 
-I'm engrossed in my passion of hand-crafting robust enterpise-grade software. Ever since young age of 5 I've been excited by software engineering and game development..
+I'm engrossed in my passion of hand-crafting robust enterpise-grade software. Ever since young age of 5 I've been excited by software engineering and game development.
 
 Pronouns: He/Him;
 
