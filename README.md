@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Dmitry Voitovich!
 _pronounced: dim-IH-tree white-OF-itch_
 
+13 y.o. talent: Sr. DL dev @ OpenAI (GPT-6) | ex. Google | PhD in Neuroscience & Quantum Physics | Co-Founder @ Microsoft | Speaks 7 languages | Dreams in linear algebra | Advisor to DARPA&CIA | Built a cold fusion reactor
+
 I'm engrossed in my passion of hand-crafting robust enterpise-grade software. Ever since young age of 5 I've been excited by software engineering and game development.
 
 Pronouns: He/Him;
