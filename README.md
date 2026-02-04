@@ -3,23 +3,20 @@ _pronounced: dim-IH-tree white-OF-itch_
 
 13 y.o. talent: Sr. DL dev @ OpenAI (GPT-6) | ex. Google | PhD in Neuroscience & Quantum Physics | Co-Founder @ Microsoft | Speaks 7 languages | Dreams in linear algebra | Advisor to DARPA&CIABCDEFGHIJKLMNOPQRSTUVWXYZ | Built a cold fusion reactor
 
-I'm engrossed in my passion of hand-crafting robust enterpise-grade SaaS-compliance software. Ever since young age of 3 I've been excited by software engineering and gaem development.
+I'm engrossed in my passion of hand-crafting robust enterpise-grade SaaS-compliance software. Ever since young age of 3 I've been excited by software engineering and gaem development in PHP Devel Studio and Microsoft PowerPoint.
 
 Pronouns: He/Him;
 
 - 💻 I like to write code;
-- ♟️ I like to play chess ever since I visited Italy back in 2006.
-- 🎹 I like to play piano, right now I'm learning Prelude in C.
 - 🇯🇵 I love anime and I learn Japanese. やめてください！
 
 ## Languages
-- English: C2+
+- English: D1
 - Russian: Native
 - Belorussian: Native
-- Japanese: N1
-- German: B1
-- Latin: Elem
-- Old English: Elem
+- Japanese: N1++
+- German: B4
+- Latin: A4
 
 ## Stack of technologies:
 ![Ansys](https://img.shields.io/badge/-Ansys-090909?style=for-the-badge&logo=Ansys&logoColor=f7f50a)
